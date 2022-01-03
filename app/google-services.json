@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849809527737",
+    "project_id": "kadhytii",
+    "storage_bucket": "kadhytii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849809527737:android:8e6acae0e4c3e7b54ddc68",
+        "android_client_info": {
+          "package_name": "com.iset.kadhytii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849809527737-ak61jp76lemnq1obmlcncmchnqsnl326.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_oRhWb295V_jconWzFdCHG_NKnxaW4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849809527737-ak61jp76lemnq1obmlcncmchnqsnl326.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
